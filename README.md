@@ -1,12 +1,12 @@
-# Enough Git for Learn
+# Git Essential Commands Quiz
 
-## Overview 
+## Overview
 
-Take the quiz below to make sure you're familiar with the crucial git commands and workflows to interact with GitHub and Learn.
+Take the quiz below to make sure you're familiar with the crucial `git` commands.
 
 ???
 
-# Quiz - Enough Git for Learn
+# Quiz
 
 ?: What's the git command that downloads your repository from GitHub to your computer?
 
@@ -71,19 +71,9 @@ Take the quiz below to make sure you're familiar with the crucial git commands a
 ( )`git commit -a "I'm coding"`
 (X)`git commit -am "I'm coding"`
 
-?: How do you submit a solution to Learn? (select all that apply)
-
-[ ] `git submit`
-[ ] `git pull-request`
-[X] By creating a Pull Request through the GitHub interface
-[X] `learn submit`
-[ ] `git commit -am "Done with Lab"`
-
 ?: What comes first, staging with `git add .` or committing with `git commit`?
 
 (X)Staging your commits with `git add`
 ( )Committing with `git commit`
 
 ???
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/git-github-learn-quiz'>Git Quiz</a> on Learn.co and start learning to code for free.</p>
